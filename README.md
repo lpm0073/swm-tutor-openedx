@@ -6,11 +6,10 @@
 
 Migration from Palm on Kubernetes to AWS EC2 instance
 
-
 Target server:
 
 ```bash
-Host bedu
+Host swm-staging
   HostName 52.14.129.223
   User ubuntu
   IdentityFile ~/.ssh/bastion.service.lawrencemcdaniel.pem
